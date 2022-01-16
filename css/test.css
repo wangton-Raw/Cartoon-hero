@@ -1,0 +1,14 @@
+body{
+    background-color: lightgray;
+}
+h1{
+    font-size: 30 px;
+    color: teal
+}
+.big{
+    font-size: 60px;
+}
+h1 span{
+    color: violet
+
+}
